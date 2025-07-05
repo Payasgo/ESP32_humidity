@@ -55,7 +55,7 @@ Connected to: yournamewifi
 IP Address: 1.1.1.1
 Temperature: 27 °C
 Humidity: 63 %
-URL: http://192.168.1.8/dht22_project/test_data.php
+URL: http://1.1.1.1/dht22_project/test_data.php
 Data: temperature=27&humidity=63
 HTTP Code: 200
 Payload: New record inserted successfully
