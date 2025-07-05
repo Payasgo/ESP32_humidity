@@ -52,7 +52,7 @@ temperature=27&humidity=63
 
 Connecting to WiFi
 Connected to: yournamewifi
-IP Address: 192.168.1.9
+IP Address: 1.1.1.1
 Temperature: 27 °C
 Humidity: 63 %
 URL: http://192.168.1.8/dht22_project/test_data.php
@@ -103,7 +103,7 @@ CREATE TABLE dht22 (
 
     Edit the ESP32 code:
 
-String URL = "http://192.168.1.8/dht22_project/test_data.php";
+String URL = "http://1.1.1.1/dht22_project/test_data.php";
 
 📊 Future Enhancements
 
